@@ -1,0 +1,16 @@
+.Country {
+    border: 2px solid salmon;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.Country-visited {
+    background-color: beige;  
+    color:black  ;
+    border: 5px solid greenyellow;
+}
+.Country-not-visited {
+    background-color: rgb(249, 80, 80);  
+    color:black  ;
+    border: 5px solid greenyellow;
+}
